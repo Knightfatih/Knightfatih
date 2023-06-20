@@ -4,7 +4,6 @@
 
 I studied Games Design and Development major, where I acquired a solid foundation in game design principles, game programming, and interactive storytelling. Throughout my coursework, I focused on designing and implementing game mechanics, creating interactive narratives, and utilising popular game engines like Unity and Unreal Engine.
 
-
 - 🔭 I’m currently working on two projects: <br>
   Upgrading Space Explorer to the latest version of DOTS. <br>
   Performing code refactoring on the Bit London project while incorporating additional features. <br>
@@ -14,21 +13,14 @@ I studied Games Design and Development major, where I acquired a solid foundatio
 - ⚡ Fun fact: I love to scuba diving and playing games
 
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://www.fatihdemirel.co.uk/)
-[![website](./img/globe-dark.svg)](https://www.fatihdemirel.co.uk/)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fatih-demirel/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fatih-demirel/)
-
-
 ### Game Engines
 <img align="left" alt="Unity" width="30px" style="paddind-right:10px; background-color:rgb(255, 255, 255);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="Unreal" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
 <br />
 
-### Languages and Tools
+#
+
+### 🧰 Languages and Tools
 <img align="left" alt="CSharp" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Cpp" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -49,8 +41,13 @@ I studied Games Design and Development major, where I acquired a solid foundatio
 <img align="left" alt="maya" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" />
 <img align="left" alt="photoshop" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
+#
 
-[website]: https://www.fatihdemirel.co.uk/
+### Connect with me:
+[<img align="left" alt="linkedin" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/fatih-demirel/)
+<br />
+
+
 <!--
 **Knightfatih/Knightfatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
