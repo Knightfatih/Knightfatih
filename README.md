@@ -16,8 +16,8 @@ I studied Games Design and Development major, where I acquired a solid foundatio
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.fatihdemirel.co.uk/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.fatihdemirel.co.uk/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.fatihdemirel.co.uk/)
+[![website](./img/globe-dark.svg)](https://www.fatihdemirel.co.uk/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fatih-demirel/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fatih-demirel/)
@@ -49,6 +49,8 @@ I studied Games Design and Development major, where I acquired a solid foundatio
 <img align="left" alt="maya" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" />
 <img align="left" alt="photoshop" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
+
+[website]: https://www.fatihdemirel.co.uk/
 <!--
 **Knightfatih/Knightfatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
