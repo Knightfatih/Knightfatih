@@ -7,14 +7,14 @@ I studied Games Design and Development major, where I acquired a solid foundatio
 - 🔭 I’m currently working on two projects: <br>
   Upgrading Space Explorer to the latest version of DOTS. <br>
   Performing code refactoring on the Bit London project while incorporating additional features. <br>
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about Unreal Engine 5
 - 👯 I’m looking to collaborate with other game developers
 - ⚡ Fun fact: I love to scuba diving and playing games
 
 ---
 
-### Game Engines
+### ⚙️ Game Engines
 <img align="left" alt="Unity" width="30px" style="paddind-right:10px; background-color:rgb(255, 255, 255);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="Unreal" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" /><br>
 
@@ -38,25 +38,10 @@ I studied Games Design and Development major, where I acquired a solid foundatio
 <img align="left" alt="photoshop" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <br />
 
-#
+---
 
-### Connect with me:
+### 🔗 Connect with me:
 [<img align="left" alt="linkedin" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/fatih-demirel/)
 <br />
 
 [website]: https://www.fatihdemirel.co.uk/
-
-<!--
-**Knightfatih/Knightfatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
