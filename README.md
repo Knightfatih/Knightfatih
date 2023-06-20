@@ -17,12 +17,8 @@ I studied Games Design and Development major, where I acquired a solid foundatio
 ### ⚙️ Game Engines
 <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
-<img align="left" alt="Unity light color mode." width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-<img align="left" alt="Unreal light color mode." width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
-<!--
-<img align="left" alt="Unity" width="30px" style="paddind-right:10px; background-color:rgb(255, 255, 255);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="Unreal" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
--->
+<img align="left" alt="Unity light color mode." width="30px" style="paddind-right:10px;" src="https://github.com/Knightfatih/Knightfatih/blob/main/img/unity-original%20copy.svg">
+<img align="left" alt="Unreal light color mode." width="30px" style="paddind-right:10px;" src="https://github.com/Knightfatih/Knightfatih/blob/main/img/unrealengine-original%20copy.svg">
 <br>
 
 ### 🧰 Languages and Tools
