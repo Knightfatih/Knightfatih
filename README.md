@@ -10,7 +10,7 @@ I studied Games Design and Development major, where I acquired a solid foundatio
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about Unreal Engine 5
 - 👯 I’m looking to collaborate with other game developers
-- ⚡ Fun fact: I love to scuba diving and playing games
+- ⚡ Fun fact: I love scuba diving and playing games.
 
 ---
 
