@@ -9,14 +9,21 @@ I studied Games Design and Development major, where I acquired a solid foundatio
   Performing code refactoring on the Bit London project while incorporating additional features. <br>
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about Unreal Engine 5
-- 👯 I’m looking to collaborate with other game developers
+- 🤝 I’m looking to collaborate with other game developers
 - ⚡ Fun fact: I love scuba diving and playing games.
 
 ---
 
 ### ⚙️ Game Engines
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+<img align="left" alt="Unity light color mode." width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+<img align="left" alt="Unreal light color mode." width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+<!--
 <img align="left" alt="Unity" width="30px" style="paddind-right:10px; background-color:rgb(255, 255, 255);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="Unreal" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" /><br>
+<img align="left" alt="Unreal" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+-->
+<br>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="CSharp" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
