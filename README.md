@@ -15,10 +15,8 @@ I studied Games Design and Development major, where I acquired a solid foundatio
 ---
 
 ### ⚙️ Game Engines
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
-<img align="left" alt="Unity light color mode." width="30px" style="paddind-right:10px;" src="https://github.com/Knightfatih/Knightfatih/blob/main/img/unity-original%20copy.svg">
-<img align="left" alt="Unreal light color mode." width="30px" style="paddind-right:10px;" src="https://github.com/Knightfatih/Knightfatih/blob/main/img/unrealengine-original%20copy.svg">
+<img align="left" alt="Unity" title="Unity" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="Unreal" title="Unreal" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
 <br>
 
 ### 🧰 Languages and Tools
@@ -32,7 +30,7 @@ I studied Games Design and Development major, where I acquired a solid foundatio
 
 <img align="left" alt="visualstudio" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="git" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="github" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="github" title="GitHub" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="photoshop" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="illustrator" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="left" alt="premierepro" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
