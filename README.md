@@ -1,4 +1,9 @@
-# Hi there, I'm Fatih and I'm a Game Developer 👋
+# Hi there, I'm Fatih 👋
+
+**`Game Developer`**
+
+I studied Games Design and Development major, where I acquired a solid foundation in game design principles, game programming, and interactive storytelling. Throughout my coursework, I focused on designing and implementing game mechanics, creating interactive narratives, and utilising popular game engines like Unity and Unreal Engine.
+
 
 - 🔭 I’m currently working on two projects: <br>
   Upgrading Space Explorer to the latest version of DOTS. <br>
@@ -7,6 +12,15 @@
 - 🥅 2023 Goals: Learn more about Unreal Engine 5
 - 👯 I’m looking to collaborate with other game developers
 - ⚡ Fun fact: I love to scuba diving and playing games
+
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://www.fatihdemirel.co.uk/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.fatihdemirel.co.uk/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fatih-demirel/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fatih-demirel/)
 
 
 ### Game Engines
@@ -19,10 +33,10 @@
 <img align="left" alt="C" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Cpp" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="CSS3" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="HTML5" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="CSS3" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="sass" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <img align="left" alt="visualstudio" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="git" width="30px" style="paddind-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
