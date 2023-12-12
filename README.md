@@ -4,13 +4,15 @@
 
 I studied Games Design and Development major, where I acquired a solid foundation in game design principles, game programming, and interactive storytelling. Throughout my coursework, I focused on designing and implementing game mechanics, creating interactive narratives, and utilising popular game engines like Unity and Unreal Engine.
 
-- 🔭 I’m currently working on two projects: <br>
-  Upgrading Space Explorer to the latest version of DOTS. <br>
-  Performing code refactoring on the Bit London project while incorporating additional features. <br>
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about Unreal Engine 5
-- 🤝 I’m looking to collaborate with other game developers
-- ⚡ Fun fact: I love scuba diving and playing games.
+🔭 **Current Project – Bit World:** Initially launched as Bit London, this project has undergone extensive refactoring to boost performance. It's now evolving with the addition of exciting new features.
+
+🌱 **Learning Journey**: Embracing the fun in learning everything! 😄
+
+🥅 **2024 Goals**: Dive into the world of Extended Reality (XR)/Virtual Reality (VR) to develop my game development skills.
+
+🤝 **Collaboration**: Keen to join forces with fellow game developers to explore innovative gaming experiences.
+
+⚡ **Fun Fact**: My world outside of coding includes scuba diving adventures and immersing myself in different gaming worlds.
 
 ---
 
